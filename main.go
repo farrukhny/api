@@ -1,11 +1,16 @@
 package main
 
-import (
+import(
   "github.com/labstack/echo"
-  "github.com/labstack/echo/engine/standard"
-  "github.com/labstack/echo/middleware"
+	"github.com/labstack/echo/engine"
+	"github.com/labstack/echo/engine/standard"
+
+  "api/common"
+
 )
 
-func main(){
+func main() {
+
+  common.StartUp()
 
 }
