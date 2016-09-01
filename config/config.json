@@ -1,0 +1,12 @@
+{
+  "Address"      : "",
+	"Listener"     : "",
+	"TLSCertFile"  : "",
+	"TLSKeyFile"   : "",
+	"ReadTimeout"  : "",
+	"WriteTimeout" : "",
+	"MongoDBHost"  : "",
+	"DBUser"       : "",
+	"DBPassword"   : "",
+	"Database"     : ""
+}
